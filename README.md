@@ -2,12 +2,21 @@
 You will find below all the useful information related to the free models I made
 ## Table of contents
 * [Kill Bricks](#killBricks)
+* * [Setup](#setupKillBricks)
 * * [How to add kill bricks](#howToAddKillBricks)
 * * [Configuration](#killBricksConfiguration)
 
 ## Documentation
 
 ### Kill Bricks<a name=killBricks></a>
+
+#### Setup<a name=setupKillBricks></a>
+
+To setup the free model, paste this in the command bar at the bottom of the screen :
+
+```
+workspace.KillBricks_FM.KillBricksHander.Parent = game:GetService("ServerScriptService"); workspace.KillBricks_FM:Destroy()
+```
 
 #### How to add killbricks<a name=howToAddKillBricks></a>
 
