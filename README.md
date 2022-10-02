@@ -34,6 +34,8 @@ To add more kill bricks, select them in the explorer and click on the +
 
 The following settings are availabel in the Configuration folder located in the script
 
+**NOTE : Any changes made during the game on the configuration objects will be ignored**
+
 |Instance name|Type|Description|
 --------------|-----|-----------|
 |IgnoreForceField|boolean (true/false)| When a player spawn, he generally has a force field that make him/her invulnerable. If set to true, the player could be killed when he has the forcefield.
