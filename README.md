@@ -10,6 +10,8 @@ You will find below all the useful information related to the free models I made
 
 ### Kill Bricks<a name=killBricks></a>
 
+[Asset link](https://create.roblox.com/marketplace/asset/11147339607/KillBricks-Collection-Service)
+
 #### Setup<a name=setupKillBricks></a>
 
 To setup the free model, paste this in the command bar at the bottom of the screen :
