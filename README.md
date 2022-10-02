@@ -14,7 +14,7 @@ You will find below all the useful information related to the free models I made
 
 To setup the free model, paste this in the command bar at the bottom of the screen :
 
-```
+```lua
 workspace.KillBricks_FM.KillBricksHander.Parent = game:GetService("ServerScriptService"); workspace.KillBricks_FM:Destroy()
 ```
 
