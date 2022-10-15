@@ -47,4 +47,4 @@ The following settings are availabel in the Configuration folder located in the 
 |IgnoreForceField|boolean (true/false)| When a player spawn, he generally has a force field that make him/her invulnerable. If set to true, the player could be killed when he has the forcefield.
 |UpdateKillBricks|boolean (true/false)| In the script, a loop check if the killbrick collection changed and apply changes on parts. If this option is set to false, any change on the parts will be ignored.
 KillBricksDelay|number|The collection check loop repeat regulary. This option define the delay between each check. (Works only if UpdateKillBricks is set to true) **WARNING : IF THE NUMBER IS TOO LOW, THE GAME COULD EXPERIENCE MORE OR LESS SIGNIFICANT LAG**
-Tag|number|The tag to add to the killbricks
+Tag|string|The tag to add to the killbricks
