@@ -17,11 +17,9 @@ You will find below all the useful information related to the free models I made
 To setup the free model, paste this in the command bar at the bottom of the screen :
 
 ```
-workspace.KillBricks_FM.KillBricksHander.Parent = game:GetService("ServerScriptService"); workspace.KillBricks_FM:Destroy()
+workspace.KillBricksHander.Parent = game:GetService("ServerScriptService")
 ```
-
-**NOTE : THE README FILE CONTAINING THE LINK WILL BE DELETED AFTER USING THIS COMMAND**
-
+or just drag the script into ServerScriptService
 #### How to add killbricks<a name=howToAddKillBricks></a>
 
 1. Install a tag plugin such as this one : [Tag Explorer](https://create.roblox.com/marketplace/asset/8293721212) _(made by @5uphi)_
